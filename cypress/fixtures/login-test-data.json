@@ -1,0 +1,14 @@
+{
+    "validABTastyUser": {
+        "email": "validABTastyEmail@abtasty.com"
+    },
+    "validSSOUser": {
+        "email": "validSSOEmail@SSODomain.com"
+    },
+    "invalidCredentials": {
+        "email": "invalidEmail@abtasty.com",
+        "invalidPassword": "sophisticatedButIncorrectPassword"
+    },
+    "invalidEmail": "non-validEmail",
+    "unsupportedLanguages": ["se", "nl", "it", "da", "zh", "hi", "ja"]
+}
